@@ -16,6 +16,11 @@ A modern and responsive full-stack Notes Application built using React, Vite, an
 
 ---
 
+## Live Demo
+
+https://smart-notes-app-theta.vercel.app
+
+
 ##  Tech Stack
 
 **Frontend:**
