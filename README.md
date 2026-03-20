@@ -49,9 +49,7 @@ src/
 
 ## Installation & Setup
 
-
 1. clone the repository
-```bash
 git clone https://github.com/your-username/smart-notes-app.git
 cd smart-notes-app
 
@@ -66,4 +64,5 @@ VITE_SUPABASE_PUBLISHABLE_KEY=your_key
 4. Run the project
 npm run dev
 
-Made with dedication by Tejashwi Bharti
+
+**Made with dedication by Tejashwi Bharti**
